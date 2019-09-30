@@ -1,2 +1,2 @@
-# holiday-card-generator
-Holiday card generator
+# Holiday-card-generator
+A Javascript Holiday card generator
